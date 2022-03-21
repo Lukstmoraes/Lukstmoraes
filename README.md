@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Lucas Tavares
-- 👀 I’m interested in improving my web development skills, working in the IT field and know as much as possible about technology.
-- 🌱 I’m currently learning Html, Css and Javascript and studying front end basic tools.
-- 📫 email: lukstmoraes@outlook.com / instagram: @luks.tavares
+Hi, I’m Lucas Tavares
+I’m interested in improving my web development skills, working in the IT field and know as much as possible about technology.
+I’m currently learning Html, Css and Javascript and studying front end basic tools.
+Email: lukstmoraes@outlook.com / Instagram: @luks.tavares
 
 <!---
 Lukstmoraes/Lukstmoraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
